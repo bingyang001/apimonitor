@@ -32,8 +32,12 @@ obj
 /**/.pydevproject
 /**/.idea
 /**/*.iml
+.vs
 /**/.DS_Store
 /**/*-baidu.xml
 /**/log
 /**.idea
 /**/BCLOUD
+TestResults
+/**/package
+package
